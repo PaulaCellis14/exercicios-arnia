@@ -1,1 +1,1 @@
-Site que direciona para notícias do G1. Usadas as tags <h1>, <h2> com a tag <a> redirecionando para a página da notícia real, <img> e a tag <p> com a tag <strong>.
+Site que direciona para notícias do G1. Foram usadas as tag de título h1 e h2. As tags h2 redirecionam para a págia real do site através da tag a. Foi inserido imagens com a tag img e textos com a tag p. A última tag p tem a tag strong que negrita o texto.
